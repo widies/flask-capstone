@@ -1,0 +1,9 @@
+# Ignore Byte-compiled / Optimizes / DLL files
+__pycache__/
+**/__pycache__/
+.pytest_cache/
+*/**/__pycache__/
+
+# Ignore environment files
+.env
+.vscode/
